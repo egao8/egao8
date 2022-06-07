@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**egao8/egao8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a full-time student at John McCrae Secondary School -- Est. Grad: 2024**
 
-Here are some ideas to get you started:
+- ⚙️ Languages and Tools: Python, Java, C#, Swift 14, Jupyter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```
+class WhoIsEddie:
+  currentEducation = "John McCrae Secondary School"
+  estGraduation = 2024 
+  
+  interests = [
+      "Machine Learning",
+      "Game Development",
+      "Front End Web development",
+      "IOS app development",
+    ]
+  
+  def getCity():
+    return "Ottawa, Canada"
+   
+  def getConnections():
+    return "egao1@ocdsb.ca" # Feel free to contact me :)
+
+```
