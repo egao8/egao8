@@ -22,6 +22,6 @@ class WhoIsEddie:
     return "Ottawa, Canada"
    
   def getConnections():
-    return "eddiegao8@gmail.com" # Feel free to contact me :)
+    return "egao1@ocdsb.ca" # Feel free to contact me :)
 
 ```
